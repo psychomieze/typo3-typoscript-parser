@@ -1,6 +1,6 @@
 {
-    "name": "helmich/typo3-typoscript-parser",
-    "description": "Parser for the TYPO3 configuration language TypoScript.",
+    "name": "psychomieze/typo3-typoscript-parser",
+    "description": "Fork of helmich/typo3-typoscript-parser",
     "type": "library",
     "license": "MIT",
     "homepage": "https://github.com/martin-helmich",
